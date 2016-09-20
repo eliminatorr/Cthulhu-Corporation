@@ -6,10 +6,10 @@
 	</HEAD>
  
 	<BODY class="black">
-		<h1>
+		<h1 class="white">
 		<?php echo "It works!"; ?>
 		</h1>
 		<input type=button onClick="parent.location='index.html'" value='nazaj'>
-		<p>Not yet</p>
+		<p class = "white">Not yet</p>
 	</BODY>
 </HTML>

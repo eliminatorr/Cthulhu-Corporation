@@ -11,7 +11,7 @@
 <body>
 <div id="login">
     <form method="post" action="">
-        <h2>Login<small>give in</small></h2>
+        <h2>Login<small></small></h2>
         <p>
             <label for="name">Username:</label>
             <input type="text" name="username" />

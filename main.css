@@ -11,6 +11,10 @@
     background-color: black;
 }
 
+.white {
+    color:aliceblue;
+}
+
 .naslov {
     text-align: center;
     color: cornsilk;
